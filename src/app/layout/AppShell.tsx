@@ -82,7 +82,7 @@ export function AppShell() {
       <aside className="app-sidebar">
         <Link className="app-brand" to="/" aria-label="Sprintova dashboard">
           <span className="app-brand__mark" aria-hidden="true">
-            TK
+            SO
           </span>
           <span>Sprintova</span>
         </Link>
@@ -110,7 +110,7 @@ export function AppShell() {
       <div className="app-content">
         <header className="app-topbar">
           <div>
-            <p className="app-topbar__label">Workspace</p>
+            <p className="app-topbar__label">Bring the next release closer</p>
             <p className="app-topbar__name">Sprintova Workspace</p>
           </div>
           <GlobalSearch />
