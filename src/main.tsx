@@ -6,7 +6,7 @@ import App from './App.tsx'
 const rootElement = document.getElementById('root')
 
 if (!rootElement) {
-  throw new Error('Sprintova could not find its root element.')
+  throw new Error('PebbleWorks could not find its root element.')
 }
 
 createRoot(rootElement).render(

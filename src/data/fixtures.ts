@@ -19,7 +19,7 @@ export function createAtlasFixtures(
 
   const workspace = {
     id: ids.workspace('operations'),
-    name: 'Sprintova Workspace',
+    name: 'PebbleWorks Workspace',
     slug: 'atlas-operations',
     createdAt,
   }
